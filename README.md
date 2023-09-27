@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/atltt44a3c6di8dt?svg=true)](https://ci.appveyor.com/project/AnnaKazmirchuk/restapi)
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
